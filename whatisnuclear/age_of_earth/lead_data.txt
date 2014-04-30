@@ -1,0 +1,19 @@
+Primordial meteorites
+Canyon Diablo/Henbury, 9.50, 10.36, 29.49
+Canyon Diablo troilite, 9.61, 10.39, 29.87
+Diablo/Burgavli/Aroos troilites, 9.74, 10.7, 30.28
+Sardis troilite, 9.37, 10.22, 29.19
+
+Stoney meteorites
+Neuvo Laredo, 50.28, 34.86, 67.97
+Richardton, 38.16, 27.70, 56.27
+Beardsley, 13.67,12.40, 31.85
+Saratov, 19.53, 16.7, 40.25
+Elenovka, 21.54, 16.94, 39.86
+
+Terrestrial samples
+North Pacific, 18.81, 15.78, 39.29
+New Brunswick, 18.31, 15.8, 38.33
+
+
+
